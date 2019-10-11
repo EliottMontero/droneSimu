@@ -1,0 +1,8 @@
+Simulation of a drone movement in 4 languages and 5 parts:
+
+      1. Environment (C++)
+      2. Drone (Java)
+      3. Base Station (C)
+      4. Engine (python)
+      5. Spectator (Java)
+
